@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldSurvival", "FieldSurvival.csproj", "{F1DEF422-2CB3-F1CD-0825-E02B8B7878F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roguelike", "..\Roguelike\Roguelike.csproj", "{AE63A727-30BC-247D-4A50-692CC1C638E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1DEF422-2CB3-F1CD-0825-E02B8B7878F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1DEF422-2CB3-F1CD-0825-E02B8B7878F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1DEF422-2CB3-F1CD-0825-E02B8B7878F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1DEF422-2CB3-F1CD-0825-E02B8B7878F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE63A727-30BC-247D-4A50-692CC1C638E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE63A727-30BC-247D-4A50-692CC1C638E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE63A727-30BC-247D-4A50-692CC1C638E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE63A727-30BC-247D-4A50-692CC1C638E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

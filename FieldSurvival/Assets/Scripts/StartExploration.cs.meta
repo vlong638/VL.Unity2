@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4896436c3225813428320f51829a1326
+timeCreated: 1481766199
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ErrorText: {fileID: 114000011827377150, guid: cb822b99004b06b4395d2df910aeab74,
+      type: 2}
+  - Input_PlayerName: {fileID: 114000013844177342, guid: cb822b99004b06b4395d2df910aeab74,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
