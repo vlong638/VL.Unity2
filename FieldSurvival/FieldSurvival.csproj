@@ -68,22 +68,24 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Constraints.cs" />
-    <Compile Include="Assets\Scripts\StartExploration.cs" />
-    <Compile Include="Assets\Scripts\BoardManager.cs" />
-    <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Class1.cs" />
+    <Compile Include="Assets\FieldSurvival\BoardManagerForFieldSurvival.cs" />
+    <Compile Include="Assets\HeroFlightChess\StartExploration.cs" />
+    <Compile Include="Assets\HeroFlightChess\BoardManager.cs" />
+    <Compile Include="Assets\HeroFlightChess\Constraints.cs" />
+    <Compile Include="Assets\HeroFlightChess\GameManager.cs" />
+    <Compile Include="Assets\HeroFlightChess\Player.cs" />
     <Compile Include="Assets\VL.Unity.Core\DataObjects\0_DefaultDataObject.cs" />
     <Compile Include="Assets\VL.Unity.Core\DataObjects\Player.cs" />
+    <Compile Include="Assets\VL.Unity.Core\GameObjects\0_DefaultGameObject.cs" />
     <Compile Include="Assets\VL.Unity.Core\GameObjects\Card.cs" />
     <Compile Include="Assets\VL.Unity.Core\GameObjects\Element.cs" />
-    <Compile Include="Assets\VL.Unity.Core\GameObjects\0_DefaultGameObject.cs" />
     <Compile Include="Assets\VL.Unity.Core\Utilities\0_DefaultUtility.cs" />
     <Compile Include="Assets\VL.Unity.Core\Utilities\AudioHelper.cs" />
     <Compile Include="Assets\VL.Unity.Core\Utilities\InputHelper.cs" />
     <Compile Include="Assets\VL.Unity.Core\Utilities\RandomHelper.cs" />
     <Compile Include="Assets\VL.Unity.Core\Utilities\ReflectionHelper.cs" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
 </Project>

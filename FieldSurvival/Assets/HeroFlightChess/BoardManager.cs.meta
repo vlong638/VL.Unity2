@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 72415b8a7d05839478acad5c4e8fc67c
+timeCreated: 1481794372
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Cell: {fileID: 1000010494155654, guid: a32e0703d284024468744f083d78a6ea, type: 2}
+  - Target: {fileID: 1000011215577932, guid: 332ebfbc9ccac904895da4a2b35c39ca, type: 2}
+  - TargetB: {fileID: 1000013144414802, guid: eceec4d6e03d55b45972b42d3447fa99, type: 2}
+  - TargetG: {fileID: 1000010478986708, guid: 44a13c2ee09102642bf64d9679f6f3e4, type: 2}
+  - TargetR: {fileID: 1000013164163910, guid: eb1c0e0069f3f1a48a31cfff689fa259, type: 2}
+  - TargetY: {fileID: 1000010104252832, guid: 82b653a361e36034987d12bfb35b074b, type: 2}
+  - ObjectB: {fileID: 1000010935818904, guid: 3318478e053dd8a489ad90d5a97a19ad, type: 2}
+  - ObjectG: {fileID: 1000011818141624, guid: d47e3de67e3f9fd4ba4f6d8987db3746, type: 2}
+  - ObjectR: {fileID: 1000011283767742, guid: fdc5f3dc69c551b41ac530b60ae81893, type: 2}
+  - ObjectY: {fileID: 1000011529864550, guid: dc4f3359a33fc8c4b8e69a230a188c1f, type: 2}
+  - CellB: {fileID: 1000013270392240, guid: f19808465c2dec64f9d9abee41b93e62, type: 2}
+  - CellG: {fileID: 1000013872639246, guid: 9f947c5ffc40fa5428a32fdc10800e80, type: 2}
+  - CellR: {fileID: 1000010844746402, guid: 54633c04e25e03e43ab64084d0727522, type: 2}
+  - CellY: {fileID: 1000011816188086, guid: 2f2c006b97c055745a354a83cec59063, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

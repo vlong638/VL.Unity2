@@ -4,7 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Item
+  - PlayerUnit
+  - Floor
   layers:
   - Default
   - TransparentFX
@@ -14,8 +15,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Floor
+  - Unit
   - 
   - 
   - 
@@ -41,4 +42,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 3998789219
+    locked: 0
+  - name: Unit
+    uniqueID: 3285230575
     locked: 0
